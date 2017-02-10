@@ -2,9 +2,8 @@
 repo ini cuman kirm fcm dari server ke client memakai php vanila
 
 ## Features
-- Kirim banyak user
-- Kirim satu user
-
+- kirim ke banyak user
+- kirim ke satu user
 
 ## Install
 ubah Firebase api key dulu coy
