@@ -1,0 +1,3 @@
+<?php
+
+define('FIREBASE_API_KEY', 'AAAAW4SJ07g:APA91bGHAHLymh8R5TtrwUFngsfwsr0ogqsO5F9HvtMgWRIbvX4xST8VrdvBrWtTSQQBnyeZussJnZzr48s5xJRsNnm7xpt6HyZpx4XXWlAnmOGZmilMyUD0AMBw0Wg6m5d-HDycLNP6m3MITsltyR87OiImEkn9bg');
