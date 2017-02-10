@@ -2,8 +2,8 @@
 repo ini cuman kirm fcm dari server ke client memakai php vanila
 
 ## Features
--Kirim banyak user
--Kirim satu user
+- Kirim banyak user
+- Kirim satu user
 
 
 ## Install
